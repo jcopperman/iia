@@ -1,6 +1,6 @@
 # **iia: Unlocking Cognitive Potential through AI**
 
-**Note**: This README is a work in progress. Some sections may be incomplete or subject to change as the project evolves. Contributions and feedback are welcome to help shape the final documentation!
+![Work in Progress](https://img.shields.io/badge/README-Work%20in%20Progress-yellow)
 
 ## **Mission**
 
@@ -100,4 +100,4 @@ This project is licensed under the MIT License, meaning it is free to use, modif
 
 ## **Contact**
 
-If you have any questions or want to collaborate, feel free to reach out at [opperman.jonathan@gmail.com].
+If you have any questions or want to collaborate, feel free to reach out at opperman.jonathan@gmail.com.
