@@ -1,5 +1,6 @@
 # **iia: Unlocking Cognitive Potential through AI**
 
+**Note**: This README is a work in progress. Some sections may be incomplete or subject to change as the project evolves. Contributions and feedback are welcome to help shape the final documentation!
 
 ## **Mission**
 
